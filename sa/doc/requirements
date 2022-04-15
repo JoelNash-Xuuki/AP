@@ -1,0 +1,34 @@
+- Build with Python 3.7
+- Use NumPy, panda, Seaborn, Matplotlib.
+- App runs withn anaconda environment usng a jupyter notebook.
+- No concurrent parts, do not use python threads.
+- Cleaning and prepare a data set
+
+  * Extract each 'type' of airport into its own column that are:
+	- large_airport
+	- medium_airport 
+	- small_airport
+  * Match each airport in all catagories with its cmmunication 
+	frequency 'frequency_mhz'.
+		
+  * remove data that have 'type''closed'
+- Load data set
+- Translate data set into suitable format (XML or JSON).
+  * have reasons that are distinct advantages and minimal limitations over
+	other data formats.
+- Produce a model that shows how the data needs to be restructred taking 
+  advantage of the selected format.
+- means to backup data selected format using files or db. 
+- Produce mean,mode and median 'frequency_mhz' for each 'large_airport'.
+- Produce mean,mode and median 'frequency_mhz' for each frequencies >100mhz.
+- Produce a graph that displays communication frequencies of 'small_airport'
+- Is there a correlation between the communication frequencies used by 3
+  different categories.
+- 'Are some frequencies user more that others?'
+- Week2, Production 1: Data translation for storage.
+- Produce 200-word relection stating:
+  * reason for your format
+  * advantages for the format 
+  * limitations on future use of this data on this format.
+  * literature that supports decision.
+
