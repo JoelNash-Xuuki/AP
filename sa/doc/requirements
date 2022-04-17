@@ -8,7 +8,7 @@
 	- large_airport
 	- medium_airport 
 	- small_airport
-  * Match each airport in all catagories with its cmmunication 
+  * Match each airport in all catagories with its communication 
 	frequency 'frequency_mhz'.
 		
   * remove data that have 'type''closed'
