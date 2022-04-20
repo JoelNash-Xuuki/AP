@@ -1,15 +1,21 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('../data/AP_Data/airports.csv', delimiter = ',')
-df2 = pd.read_csv('../data/AP_Data/airport-frequencies.csv', delimiter = ',')
+data_1 = pd.read_csv('../data/AP_Data/airports.csv', delimiter = ',')
+df1 = pd.DataFrame(data_1)
 
-df['Large Airport'] = np.where(df['type'] == 'small_airport', True, False)
-df['Medium Airport'] = np.where(df['type'] == 'medium_airport', True, False)
-df['Small Airport'] = np.where(df['type'] == 'small_airport', True, False)
+data_2 = pd.read_csv('../data/AP_Data/airport-frequencies.csv', delimiter = ',')
+df2 = pd.DataFrame(data_2)
 
-df.drop(df.index[df['type'] == 'closed'], inplace=True)
+df1['Large Airport'] = np.where(df1['type'] == 'small_airport', True, False)
+df1['Medium Airport'] = np.where(df1['type'] == 'medium_airport', True, False)
+df1['Small Airport'] = np.where(df1['type'] == 'small_airport', True, False)
 
-if np.where(df['id'] == '6528' && df2['id'] == '6528'):
-  print ('SAME')
+df1.drop(df1.index[df1['type'] == 'closed'], inplace=True)
 
+#if np.where(df1['id'] == '6528'):
+#    print(df2.loc[[6528]])
+
+#print (df1[1:2]['id'] == df2.iloc[1:2]['id2'])
+#some_date = df.iloc[1:2]['Date']  #
+print (df1['id'])
