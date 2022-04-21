@@ -18,4 +18,5 @@ df1.drop(df1.index[df1['type'] == 'closed'], inplace=True)
 
 #print (df1[1:2]['id'] == df2.iloc[1:2]['id2'])
 #some_date = df.iloc[1:2]['Date']  #
+df.loc[(df[‘id’] == ‘6526’) #| (df[‘id’] == ‘Rectangle’)]
 print (df1['id'])
