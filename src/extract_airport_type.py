@@ -14,9 +14,10 @@ df1['Small Airport'] = np.where(df1['type'] == 'small_airport', True, False)
 df1.drop(df1.index[df1['type'] == 'closed'], inplace=True)
 
 #if np.where(df1['id'] == '6528'):
-#    print(df2.loc[[6528]])
 
-#print (df1[1:2]['id'] == df2.iloc[1:2]['id2'])
-#some_date = df.iloc[1:2]['Date']  #
-df.loc[(df[‘id’] == ‘6526’) #| (df[‘id’] == ‘Rectangle’)]
-print (df1['id'])
+index = df1.index
+number_of_rows = len(index) 
+
+#for x in range(0, number_of_rows):
+
+df2ids= df2['id2'].to_string(index = False)
