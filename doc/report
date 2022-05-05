@@ -1,0 +1,44 @@
+
+
+
+Notes:
+"Json ulike xml:
+JSON doesn't use end tag
+JSON is shorter
+JSON is quicker to read and write
+JSON can use arrays
+"[1]
+
+Section 1 Theory supported by code samples [1400]
+a)[20m]
+The use of python threads could be introduced...
+Diagram to illustrate control flow in order to specifiy the inclusion of
+threads.
+b)[20m]
+The GUI supports the required user by...
+Including GUI interface constructs
+GUI interface layouts...
+The user interactions include...
+
+c)[10m]
+Regarding 'manipulation of data containers' what is most effective out of
+java and python (using python examples)...
+Constructions used for storing...
+Structure...
+List(data manipulation)
+
+Section 2 Design decisions supported by code samples [1200]
+a)[10m]
+The reasoning that supports the data format...
+Include 1 page for data format diagram and for code examples.
+The advantages/disadvantages ...
+b)[10m]
+
+c)[10m]
+
+Section 3 Reflection on ethics, moral and legal aspects [400]
+
+
+reference 
+[1] https://www.w3schools.com/js/js_json_xml.asp
+

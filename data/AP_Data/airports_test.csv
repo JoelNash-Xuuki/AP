@@ -1,0 +1,5 @@
+"id","ident","type","name","latitude_deg","longitude_deg","elevation_ft","continent","iso_country","iso_region","municipality","scheduled_service","gps_code","iata_code","local_code","home_link","wikipedia_link","keywords"
+6528,"00CA","small_airport","Goldstone (GTS) Airport",35.35474,-116.885329,3038,"NA","US","US-CA","Barstow","no","00CA",,"00CA",,,
+6589,"01FL","small_airport","Cedar Knoll Flying Ranch Airport",28.78190040588379,-81.1592025756836,19,"NA","US","US-FL","Geneva","no","01FL",,"01FL",,,
+6756,"04CA","small_airport","Gray Butte Field",34.5639,-117.675003,3020,"NA","US","US-CA","Palmdale","no","KGXA",,"04CA",,,
+6779,"04MS","small_airport","Nick's Flying Service Inc Airport",32.939601898199996,-90.8373031616,100,"NA","US","US-MS","Rolling Fork","no","04MS",,"04MS",,,
