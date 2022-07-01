@@ -1,7 +1,7 @@
-##import numpy as np
+#import numpy as np
 import pandas as pd
 
-data = pd.read_csv('PeopleTrainingDate.csv', delimiter = ',')
+data = pd.read_csv('data/PeopleTrainingDate.csv', delimiter = ',')
 
 data['Updated'] = pd.to_datetime(data['Updated'])
 
