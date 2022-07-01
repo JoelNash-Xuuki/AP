@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{cbord}
+C-BORD{(2022,Feb.25)}.
+\newblock {\textit Project Overview.} %www.cboard-h2020.com[online].
+\newblock \url{cbord-h2020.eu/page/project-overview.php }.
+\newblock [Accessed: 25 Febuary 2022].
+
+\bibitem{growingvol}
+C-BORD{(2022,Feb.25)}.
+\newblock {\textit Project Overview.} %www.cboard-h2020.com[online].
+\newblock \url{https://tfig.unece.org/contents/NII-technology.htm}.
+\newblock [Accessed: 25 Febuary 2022].
+
+\bibitem{iso31000}
+Feb.20) ISO(2022.
+\newblock {\textit ISO Risk Management[online].} pivotpointsecurity.com.
+\newblock \url{https://www.iso-3100-risk-management.html [Accessed: 10 febuary
+  2022]}.
+\newblock [Accessed: 21 Febuary 2022].
+
+\bibitem{iso310002018}
+ISO(2022.Feb.22).
+\newblock {\textit ISO Risk Management-Guidelines[online].}
+  pivotpointsecurity.com.
+\newblock \url{www.iso.org/obp/ui/iso:std:iso:31000:ed-2:v1:en[Accessed: 22
+  Febuary 2022]}.
+\newblock [Accessed: 22 Febuary 2022].
+
+\bibitem{ppsecurity}
+R.Barrus{(20, Aug,25)}.
+\newblock {\textit What Is Theat Modeling.} pivot point security[online].
+\newblock
+  \url{https://www.pivotpointsecurity.com/blog/what-is-threat-modeling-and-how-does-it-differ-from-risk-assessment/
+  }.
+\newblock [Accessed: 10 febuary 2022].
+
+\bibitem{pfsen}
+Pawel Sibczynski, Andrzej Dziedzic, Krystian Grodzicki, Joanna Iwanowska,
+  Tymoteusz Kosiński, Michał Matusiak, Marek Moszynski, Lukasz Swiderski,
+  A.~Syntfeld, D.~Wolski, Frédérick Carrel, Amelie Grabowski, Matthieu Hamel,
+  Frederic Laine, Adrien Sari, Alessandro Iovene, and Carlo Tintori.
+\newblock Comparison of prompt and delayed photofission neutron detection
+  techniques using different types of radiation detectors.
+\newblock 11 2016.
+
+\end{thebibliography}

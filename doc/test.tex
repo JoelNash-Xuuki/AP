@@ -1,0 +1,22 @@
+\documentclass[12pt]{report}
+\usepackage{url}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{titlesec}
+\titleformat{\chapter}[display]{\normalfont\bfseries}{}{0pt}{\Huge}
+\begin{document}
+{
+  \centering
+ \huge\bfseries Risk Management\vspace{1em}  \\%3000 words
+}
+\vspace{}
+\def\org{CBORD} 
+\def\grm{The ISO 31000 (2018)}
+\def\rmp{Risk Management Plan}  
+\def\csm{Cyber Security Manager} 
+\input{Intro.tex}
+\input{Section_A.tex}
+\input{Section_B.tex}
+\input{Section_C.tex}
+\bibliographystyle{plain}
+\bibliography{cst_reassessment.bib}
+\end{document}

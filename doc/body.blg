@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: body.aux
+The style file: plain.bst
+Database file #1: body.bib
+Warning--entry type for "ppsecurity" isn't style-file defined
+--line 1 of file body.bib
+Warning--entry type for "iso31000" isn't style-file defined
+--line 8 of file body.bib
+Warning--entry type for "iso310002018" isn't style-file defined
+--line 15 of file body.bib
+Warning--entry type for "cbord" isn't style-file defined
+--line 32 of file body.bib
+Warning--entry type for "growingvol" isn't style-file defined
+--line 39 of file body.bib
+Warning--I didn't find a database entry for "liberataT"
+Warning--I didn't find a database entry for "assets"
+Warning--I didn't find a database entry for "8069693"
+Warning--I didn't find a database entry for "ukboardsec"
+Warning--I didn't find a database entry for "clause4"
+Warning--I didn't find a database entry for "infosecpol"
+Warning--I didn't find a database entry for "clause6bs"
+Warning--empty booktitle in pfsen
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            532 strings with 5392 characters,
+and the built_in function-call counts, 1816 in all, are:
+= -- 157
+> -- 123
+< -- 0
++ -- 50
+- -- 44
+* -- 102
+:= -- 323
+add.period$ -- 23
+call.type$ -- 6
+change.case$ -- 40
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 48
+empty$ -- 137
+format.name$ -- 44
+if$ -- 367
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 1
+newline$ -- 38
+num.names$ -- 12
+pop$ -- 75
+preamble$ -- 1
+purify$ -- 34
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 30
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 1
+while$ -- 12
+width$ -- 7
+write$ -- 66
+(There were 13 warnings)
